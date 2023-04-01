@@ -122,7 +122,7 @@ header-includes:
 
 Удалим двойным нажатием на клавишу “d” новую строку
 
-![Рис.7 Удаление всей строки ](image/placeimg_800_600_tech.jpg)
+![Рис.7 Удаление всей строки ]([image/placeimg_800_600_tech.jpg](https://github.com/Florikan2/study_2022-2023_os-intro/blob/master/labs/lab08/report/image/Рис.%207%20Удаление%20всей%20строки.png))
 
 
 Рис.7 Удаление всей строки
