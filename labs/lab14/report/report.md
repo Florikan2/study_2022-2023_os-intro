@@ -89,11 +89,15 @@ header-includes:
 
 ![Рис.1 Создание файлов в домашнем каталоге ](https://github.com/Florikan2/study_2022-2023_os-intro/blob/master/labs/lab14/report/image/1.png)
 
+Рис.1 Создание файлов в домашнем каталоге
+
 
 В emacs откроем созданный файл common.h и приступим к переносу в него скрипта
 из файла, а также внесём в него дополнительные изменения
 
 ![Рис.2 Перенос скрипта для common.h ](https://github.com/Florikan2/study_2022-2023_os-intro/blob/master/labs/lab14/report/image/2.png)
+
+Рис.2 Перенос скрипта для common.h
 
 
 После того как мы перенесли, изменили и сохранили скрипт для первого файла,
@@ -102,11 +106,15 @@ header-includes:
 
 ![Рис.3 Перенос скрипта для server.c ](https://github.com/Florikan2/study_2022-2023_os-intro/blob/master/labs/lab14/report/image/3.png)
 
+Рис.3 Перенос скрипта для server.c 
+
 
 Теперь нам нужно перенести третий скрипт в файл client.c. После чего также
 выполняем сохранение
 
 ![Рис.4 Перенос скрипта для main.c ](https://github.com/Florikan2/study_2022-2023_os-intro/blob/master/labs/lab14/report/image/4.png)
+
+Рис.4 Перенос скрипта для main.c 
 
 
 Выполним перенос скрипта для последнего, четвёртого файла Makefile и закроем
@@ -114,11 +122,15 @@ emacs
 
 ![Рис.5 Перенос скрипта для Makefile](https://github.com/Florikan2/study_2022-2023_os-intro/blob/master/labs/lab14/report/image/5.png)
 
+Рис.5 Перенос скрипта для Makefile
+
 
 В терминале выполним команду make all. После чего в одном терминале запустим
 команду ./server, а в двух других ./client и проверим корректность выполнения
 
 ![Рис.6 Проверка выполнения](https://github.com/Florikan2/study_2022-2023_os-intro/blob/master/labs/lab14/report/image/6.png)
+
+Рис.6 Проверка выполнения
 
 
 # Контрольные вопросы
